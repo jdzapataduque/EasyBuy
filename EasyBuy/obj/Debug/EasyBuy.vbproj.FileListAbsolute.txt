@@ -1,0 +1,77 @@
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\EasyBuy.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\EasyBuy.pdb
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\EasyBuy.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Antlr3.Runtime.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.AspNet.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.Core.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\EntityFramework.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\System.Web.Optimization.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\System.Web.Providers.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\WebGrease.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\EntityFramework.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.Core.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\DotNetOpenAuth.AspNet.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\es\EntityFramework.resources.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\es\System.Web.Optimization.resources.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\es\System.Web.Providers.resources.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.vbprojResolveAssemblyReference.cache
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.Resources.resources
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.vbproj.GenerateResource.Cache
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.dll
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.xml
+c:\users\jjimenezc\documents\visual studio 2012\Projects\EasyBuy\EasyBuy\obj\Debug\EasyBuy.pdb
+D:\Dropbox\EasyBuy\EasyBuy\bin\EasyBuy.dll.config
+D:\Dropbox\EasyBuy\EasyBuy\bin\EasyBuy.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\EasyBuy.pdb
+D:\Dropbox\EasyBuy\EasyBuy\bin\EasyBuy.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\Antlr3.Runtime.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.AspNet.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.Core.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\EntityFramework.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\System.Web.Optimization.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\System.Web.Providers.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\WebGrease.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\EntityFramework.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.Core.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\DotNetOpenAuth.AspNet.xml
+D:\Dropbox\EasyBuy\EasyBuy\bin\es\EntityFramework.resources.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\es\System.Web.Optimization.resources.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\es\System.Web.Providers.resources.dll
+D:\Dropbox\EasyBuy\EasyBuy\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.vbprojResolveAssemblyReference.cache
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.Resources.resources
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.vbproj.GenerateResource.Cache
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.dll
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.xml
+D:\Dropbox\EasyBuy\EasyBuy\obj\Debug\EasyBuy.pdb

@@ -1,0 +1,17 @@
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.dll
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.pdb
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.csprojResolveAssemblyReference.cache
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.dll
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.pdb
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\libClases6-8.dll
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.dll
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\libClases6-8.pdb
+C:\Users\JJIMENEZC\documents\visual studio 2012\Projects\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.pdb
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.dll
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.pdb
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.dll
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\libClases6-8.pdb
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.pdb
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.csprojResolveAssemblyReference.cache
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.dll
+D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.pdb
