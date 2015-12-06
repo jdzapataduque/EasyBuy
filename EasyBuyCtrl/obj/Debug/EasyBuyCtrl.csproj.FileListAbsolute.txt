@@ -15,3 +15,11 @@ D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.pdb
 D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.csprojResolveAssemblyReference.cache
 D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.dll
 D:\Dropbox\2014\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.pdb
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.dll
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\bin\Debug\EasyBuyCtrl.pdb
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.dll
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\bin\Debug\libClases6-8.pdb
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\bin\Debug\libComunes.pdb
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.dll
+C:\Users\juan\Documents\GitHub\EasyBuy\EasyBuyCtrl\obj\Debug\EasyBuyCtrl.pdb
